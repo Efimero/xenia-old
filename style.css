@@ -1,0 +1,82 @@
+/* CSS files add styling rules to your content */
+@media (max-width: 1000px) {
+  grid {
+    grid-template-columns: 100% !important;
+    margin-left: 0% !important;
+    border-left: none !important;
+    padding: 0 !important;
+  }
+  grid img {
+    max-width: 100% !important;
+  }
+  grid .image, grid .image * {
+    justify-self: center !important;
+    text-align: center !important;
+  }
+}
+@media (max-width: 400px) {
+  body {margin: .5em !important;}
+}
+@media (max-width: 200px) {
+  body {font-size: 1rem !important;}
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+body {
+  font-family: 'Questrial', helvetica, arial, sans-serif;
+  font-size: 1.3rem;
+  margin: 2em;
+  background-color: #831;
+  color: #9fe;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+grid {
+  display: grid;
+  grid-template-columns: 50% 40%;
+  grid-gap: 1em;
+  margin-left: 2em;
+  border-left: 2px dashed #3f1808;
+  padding-left: 1em;
+}
+
+grid .image, grid .image * {
+  max-height: 200px;
+  max-width: 400px;
+  justify-self: right;
+  text-align: right;
+}
+
+grid .image {
+  max-width: 100%;
+  max-height: max-content;
+  display: block;
+}
+
+grid img {
+  width: auto;
+  border: 2px outset #fa5;
+}
+
+grid time {
+  font-size: 0.8rem;
+  text-decoration: underline dotted;
+}
+
+strike {
+  font-size: 0.8rem;
+}
+
+a {color: #fff}
+
+flag {
+  display: block;
+  border: 1px solid;
+}
+.b {border-color: #5BCEFA;}
+.p {border-color: #F5A9B8;}
+.w {border-color: white;}
