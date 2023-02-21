@@ -1,24 +1,37 @@
 /* CSS files add styling rules to your content */
 @media (max-width: 1000px) {
-  grid {
+  .story, footer {
     grid-template-columns: 100% !important;
     margin-left: 0% !important;
-    border-left: none !important;
-    padding: 0 !important;
+    padding: 5px !important;
+    border-radius: 0 !important;
   }
-  grid img {
+  .story img {
     max-width: 100% !important;
   }
-  grid .image, grid .image * {
+  .right {
     justify-self: center !important;
     text-align: center !important;
+    max-width: 350px !important;
   }
 }
-@media (max-width: 400px) {
-  body {margin: .5em !important;}
-}
-@media (max-width: 200px) {
-  body {font-size: 1rem !important;}
+@media (max-width: 500px) {
+  body {
+    margin: .5em !important;
+    font-size: 1rem !important;
+  }
+  .right {
+    width: 80% !important;
+    border-radius: 0 !important;
+    padding: 2px !important;
+  }
+  .right img, .right video {
+    max-height: unset !important;
+    width: 50vw !important;
+  }
+  .left {
+    min-width: unset !important;
+  }
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
@@ -26,7 +39,8 @@
 body {
   font-family: 'Questrial', helvetica, arial, sans-serif;
   font-size: 1.3rem;
-  margin: 2em;
+  margin: 5%;
+  background: url("images/bg.png");
   background-color: #831;
   color: #9fe;
 }
@@ -35,34 +49,45 @@ h1 {
   font-weight: bold;
 }
 
-grid {
+.story, footer {
+  background-color: #0002;
   display: grid;
-  grid-template-columns: 50% 40%;
+  grid-template-columns: auto auto;
   grid-gap: 1em;
   margin-left: 2em;
   border-left: 2px dashed #3f1808;
-  padding-left: 1em;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-radius: 0px 20px 20px 0px;
+  min-width: min-content;
 }
 
-grid .image, grid .image * {
-  max-height: 200px;
-  max-width: 400px;
-  justify-self: right;
+.left {
+  break-inside: avoid;
+  min-width: 250px;
+}
+
+.right {
   text-align: right;
-}
-
-grid .image {
-  max-width: 100%;
-  max-height: max-content;
   display: block;
+  break-inside: avoid;
+  break-before: always;
+  border-radius: 20px;
+  padding: 20px;
+  background: #c63;
+  width: max-content;
+  height: max-content;
+  justify-self: right;
 }
 
-grid img {
+.story img, .story video {
   width: auto;
+  max-width: 400px;
+  max-height: 200px;
   border: 2px outset #fa5;
 }
 
-grid time {
+time {
   font-size: 0.8rem;
   text-decoration: underline dotted;
 }
@@ -80,3 +105,31 @@ flag {
 .b {border-color: #5BCEFA;}
 .p {border-color: #F5A9B8;}
 .w {border-color: white;}
+
+comment {display: none;}
+
+.license {
+  font-size: 1.1rem;
+  background-color: #9bb4;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.author {
+  background: #402;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 5px 0 5px -5px;
+  width: max-content;
+  max-width: 100%;
+}
+
+footer .right, footer .left {
+  width: 80%;
+}
+
+footer {
+  border: 0;
+  border-radius: 20px;
+}
