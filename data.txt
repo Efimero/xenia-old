@@ -237,7 +237,7 @@ right:
 img: zwiebelprinz2.jpeg
 left:
 time: 2022-11-13
-author: @a[href: "https://tech.lgbt/@EeveeEuphoria"]{Eevee}
+author: @a[href: "https://tech.lgbt/@EeveeEuphoria"]{EeveeEuphoria}
 source: @a[href: "https://tech.lgbt/@EeveeEuphoria/109337642942177266"]{Tech lgbt}
 right:
 img: Eevee1.png
