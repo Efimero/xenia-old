@@ -72,7 +72,7 @@ h1 {
   display: block;
   break-inside: avoid;
   break-before: always;
-  border-radius: 20px;
+  border-radius: 18px;
   padding: 20px;
   background: #c63;
   width: max-content;
