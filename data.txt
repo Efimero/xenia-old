@@ -58,7 +58,7 @@ img: flyinghyena1.jpeg
 left:
 time: 2021-05-05
 author: @a[href: "https://cybre.space/@apt"]{apt}
-source: @a[href: "https://cybre.space/@apt/106175020205178772"]{Cybre space}
+source: @a[href: "https://archive.is/rTDpr"]{Cybre space}
 right:
 img: apt1.png
 left:
@@ -172,7 +172,7 @@ img: kay2.png
 left:
 time: 2022-04-25
 author: @a[href: "https://www.marikedrawinge.com/"]{Marie}
-sub: @a[href: "https://cybre.space/@candle"]{Candle}
+sub: @a[href: "https://timetheft.social/@candle"]{Candle}
 right:
 img: marie1.png
 left:
@@ -486,3 +486,9 @@ source: @a[href: "https://www.tumblr.com/marikedrawinge/709727391846662144/xenia
 Of course Xenia uses vim!
 right:
 img: marikedrawinge2.jpg
+left:
+time: 2023-02-05
+author: @a[href: "https://pounced-on.me/@coelacanthus"]{Coel}
+source: @a[href: "https://pounced-on.me/@coelacanthus/109810928923515834"]{pounced-on.me}
+right:
+img: coelacanthus1.png

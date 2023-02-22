@@ -30,8 +30,8 @@
       Thanks to Immy for this awesome video.}
     @br
     @div[class: "story"]{
-      @div[class: "left"]{Xenia, the fox girl mascot of @a[href: "https://www.linux.org/"]{Linux}, was first designed in 1996 by @a[href: "http://www.almackey.com/"]{Alan Mackey}.
-        She was meant to be @a[href: "http://www.gregroelofs.com/greg_lnxpeng.html"]{an alternative} to @a[href: "https://en.wikipedia.org/wiki/Tux_%28mascot%29"]{Tux}, the official mascot. Something that would resurface in @a[href: "https://itsfoss.com/tux-trivia/"]{an article} years later.}
+      @div[class: "left"]{Xenia, the fox girl mascot of @a[href: "https://www.linux.org/"]{Linux}, was first designed in 1996 by @a[href: "https://web.archive.org/web/20060610112303/http://www.almackey.com/"]{Alan Mackey}.
+        She was meant to be @a[href: "https://archive.is/wYsFh"]{an alternative} to @a[href: "https://en.wikipedia.org/wiki/Tux_%28mascot%29"]{Tux}, the official mascot. Something that would resurface in @a[href: "https://itsfoss.com/tux-trivia/"]{an article} years later.}
       @div[class: "right"]{
         @a+img["linuxfox.gif"]
         @a+img["linuxfox_smltr.gif?v=1593749237791"]}}
@@ -47,13 +47,13 @@
     @div[class: "story"]{
       @div[class: "left"]{As it happens, Xenia (a name chosen by @a[href: "https://twitter.com/cathodegaytube/status/1269409552027377664"]{Cathodegaytube's girlfriend}, @a[href: "https://twitter.com/AmyWrightDev"]{AmyWrightDev}), became a girl off-screen and came out during pride month.
         A series of coincidences brought about trans representation to this historically cishet male centric sector of software.
-        Special thanks to @a[href: "https://cybre.space/@Balina/104299903634507945"]{this recap} on Mastodon (cybre.space) without which this page wouldn't be possible.@comment{archive https://web.archive.org/web/20220628062928/https://cybre.space/@"@"Balina/104299903634507945}}
+        Special thanks to @a[href: "https://archive.is/Ho4Md"]{this recap} on Mastodon (cybre.space) without which this page wouldn't be possible.@comment{archive https://web.archive.org/web/20220628062928/https://cybre.space/@"@"Balina/104299903634507945}}
       @div[class: "right"]{
         @a+img["email1.png"]
         @br
         @a+img["email2.png"]}}
     @div[class: "story"]{
-      @div[class: "left"]{These news gave new life to Xenia and as artists became interested in her we saw some @comment{@a[href: "https://masto.werefox.dev/@shadow8t4/104235712891251159"]{more art}}more art of her.}}
+      @div[class: "left"]{These news gave new life to Xenia and as artists became interested in her we saw some @a[href: "https://archive.is/xeJ39"]{more art} of her.}}
     @(custom-parse "data.txt")
     @div[style: "margin-left: 2em;"]{
       @element/not-empty['flag class: "b"]{}
