@@ -277,13 +277,6 @@ source: @a[href: "https://twitter.com/cathodegaytube/status/1478904920648552450"
 right:
 img: cathodegaytube6.png
 left:
-time: 2021-07-18
-author: @a[href: "https://twitter.com/Flying_Hyena"]{Flying Hyena}
-sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
-source: @a[href: "https://twitter.com/Flying_Hyena/status/1416811727778459653"]{Twitter}
-right:
-img: flyinghyena3.jpeg
-left:
 time: 2021-11-10
 author: @a[href: "https://twitter.com/fr_brennan"]{Frederick Brennan}
 sub: @a[href: "https://tech.lgbt/@ShadowJonathan"]{jo}
