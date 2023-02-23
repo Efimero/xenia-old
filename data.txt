@@ -355,7 +355,7 @@ img: tosia2.png
 img: tosia3.png
 left:
 time: 2023-01-02
-author: Unknown! @small{(please help find them)}
+author: Anonymous @small{(as per request)}
 sub: @a[href: "https://schelling.pt/@panchromaticity"]{Xeniamorph} and @a[href: "https://social.treehouse.systems/@fox"]{Fox}
 source: @a[href: "https://schelling.pt/@panchromaticity/109618378195775775"]{First sighting}
 right:

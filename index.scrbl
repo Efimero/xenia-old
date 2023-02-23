@@ -34,7 +34,7 @@
         She was meant to be @a[href: "https://archive.is/wYsFh"]{an alternative} to @a[href: "https://en.wikipedia.org/wiki/Tux_%28mascot%29"]{Tux}, the official mascot. Something that would resurface in @a[href: "https://itsfoss.com/tux-trivia/"]{an article} years later.}
       @div[class: "right"]{
         @a+img["linuxfox.gif"]
-        @a+img["linuxfox_smltr.gif?v=1593749237791"]}}
+        @a+img["linuxfox_smltr.gif"]}}
     @div[class: "story"]{
       @div[class: "left"]{But far from being the end of the story, when twitter user @a[href: "https://twitter.com/cathodegaytube/"]{Cathodegaytube} found about this from her girlfriend in 2019, she decided to redraw her and @a[href: "https://twitter.com/cathodegaytube/status/1197227512075411456"]{posted about it}.}
       @div[class: "right"]{
