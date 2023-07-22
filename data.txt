@@ -150,7 +150,7 @@ img: cathodegaytube5.jpeg
 left:
 time: 2021-11-26
 author: @a[href: "https://twitter.com/Zwiebelprinz"]{Zweibelprinz}
-sub: @a[href: "https://vulpine.club/@digitalfox"]{Digital fox}
+sub: @a[href: "https://yip.vulpine.engineer/@digitalfox"]{Digital fox}
 source: @a[href: "https://twitter.com/Zwiebelprinz/status/1463901450942271493"]{Twitter}
 To be fair, nobody is born with programming knowledge!
 right:
@@ -194,7 +194,7 @@ img: zaeroses1.svg
 left:
 time: 2021-12-05
 author: Massimo Gismondi
-sub: @a[href: "https://vulpine.club/@digitalfox"]{digitalfox}
+sub: @a[href: "https://yip.vulpine.engineer/@digitalfox"]{digitalfox}
 source: @a[href: "https://online.supertuxkart.net/addons.php?type=karts&name=xenia"]{Addon download on supertuxcart.net}
 license: Creative Commons BY SA 4.0
 right:
@@ -520,3 +520,119 @@ author: @a[href: "https://toot.finfur.net/@Neotheta"]{Neotheta}
 source: @a[href: "https://toot.finfur.net/@Neotheta/110028004485763728"]{finfur.net}
 right:
 img: neotheta1.png
+left:
+time: 2023-04-09
+author: @a[href: "https://meow.social/@goaty"]{Goaty}
+source: @a[href: "https://meow.social/@goaty/110168867182718074"]{meow.social}
+right:
+img: goaty1.png
+left:
+time: 2023-04-18
+author: @a[href: "https://nitecrew.rip/@extinct"]{Extinct}
+sub: @a[href: "https://rheinhessen.social/@dmowitz"]{Daniel}
+source: @a[href: "https://chitter.xyz/@dmowitz@rheinhessen.social/110220687798558764"]{rheinhessen.social cached on chitter.xyz}
+Commissioned work.@br
+Both are licensed under CC BY-NC-SA 4.0.@br
+The "Linux" lettering is by @a[href: "https://ericson.net/"]{Matthew Ericson}
+right:
+img: extinct1.png
+img: extinct3.png
+@br
+img: extinct2.png
+left:
+time: 2023-04-26
+author: @a[href: "https://queer.af/@mary"]{Mary}
+source: @a[href: "https://queer.af/@mary/110267191610372952"]{queer.af}
+right:
+img: mary1.jpeg
+left:
+time: 2023-05-01
+author: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+source: @a[href: "https://timetheft.social/@mutanthunt/110290824674509838"]{timetheft.social}
+right:
+img: mariken1.png
+left:
+time: 2023-05-04
+author: @a[href: "https://yiff.life/@CherryPixelBun"]{Krische}
+source: @a[href: "https://yiff.life/@CherryPixelBun/110310892662168516"]{yiff.life}
+right:
+img: krische1.png
+left:
+time: 2023-05-08
+author: @a[href: "https://wetdry.world/@ioletsgo"]{Ivory}
+source: @a[href: "https://wetdry.world/@ioletsgo/110331783603807495"]{wetdry.world}
+right:
+img: ivory1.png
+left:
+time: 2023-05-11
+author: @a[href: "https://meow.social/@voltbun"]{VoltBun}
+sub: @a[href: "https://social.pyrox.dev/pyrox"]{Pyrox}
+source: @a[href: "https://meow.social/@voltbun/110351682623185849"]{meow.social}
+right:
+img: voltbun2.png
+img: voltbun3.png
+left:
+time: 2023-05-15
+author: @a[href: "https://yiff.life/@koko"]{Koko}
+source: @a[href: "https://yiff.life/@koko/110369383358466705"]{yiff.life}
+right:
+img: koko1.png
+left:
+time: 2023-05-15
+author: @a[href: "https://meow.social/@blubebbie"]{blubebbie}
+source: @a[href: "https://meow.social/@blubebbie/110371252695242560"]{meow.social}
+Now with bonus Kiki, Tux and Konqi!
+right:
+img: blubebbie1.png
+img: blubebbie2.png
+@br
+img: blubebbie3.png
+img: blubebbie4.png
+left:
+time: 2023-05-28
+author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+source: @a[href: "https://meow.social/@rinidisc/110448203081699250"]{meow.social}
+right:
+img: RiniDisc14.png
+left:
+time: 2023-06-10
+author: @a[href: "https://framapiaf.org/@davidrevoy"]{David Revoy}
+source: @a[href: "https://framapiaf.org/@davidrevoy/110519900449848982"]{framapiaf.org}
+right:
+img: davidrevoy1.jpg
+img: davidrevoy2.jpg
+@br
+img: davidrevoy3.jpeg
+left:
+time: 2023-05-21
+author: @a[href: "https://chaos.social/@nek0"]{nek0}
+source: @a[href: "https://chaos.social/@nek0/110405499975161863"]{chaos.social}
+right:
+img: nek0-1.png
+left:
+time: 2023-06-13
+author: @a[href: "https://vt.social/@ExpiredPopsicle"]{Kiri}
+sub: @a[href: "https://chitter.xyz/@TudbuT@tech.lgbt"]{TudbuT}
+source: @a[href: "https://vt.social/@ExpiredPopsicle/110535376184347488"]{vt.social}
+right:
+img: kiri1.png
+left:
+time: 2023-06-23
+author: @a[href: "https://freja.zone/@freja"]{Freja (bunny)}
+source: @a[href: "https://freja.zone/@freja/110591051082235494"]{freja.zone}
+right:
+img: freja1.jpeg
+left:
+time: 2023-06-29
+author: @a[href: "https://chitter.xyz/@alisonkit@mastodon.art"]{Alison Kit}
+source: @a[href: "https://www.tumblr.com/alisonkit/721484467600048128/xenia"]{Tumblr}
+source: @a[href: "https://mastodon.art/@alisonkit/110640279833200891"]{mastodon.art}
+right:
+img: alisonkit1.jpg
+left:
+time: 2023-07-06
+author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
+source: @a[href: "https://meow.social/@rinidisc/110669053281279795"]{meow.social}
+right:
+img: RiniDisc15.png
+
