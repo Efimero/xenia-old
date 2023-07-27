@@ -635,4 +635,11 @@ author: @a[href: "https://meow.social/@rinidisc"]{RiniDisc}
 source: @a[href: "https://meow.social/@rinidisc/110669053281279795"]{meow.social}
 right:
 img: RiniDisc15.png
+left:
+time: 2023-07-26
+author: @a[href: "https://mstdn.games/@VirtualRook"]{VirtualRook}
+sub: @a[href: "https://chitter.xyz/@ShadowJonathan@tech.lgbt"]{Jo}
+source: @a[href: "https://mstdn.games/@VirtualRook/110782241709703769"]{mstdn.games}
+right:
+img: virtualrook1.jpg
 
