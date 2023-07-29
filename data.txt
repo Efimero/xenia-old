@@ -642,4 +642,10 @@ sub: @a[href: "https://chitter.xyz/@ShadowJonathan@tech.lgbt"]{Jo}
 source: @a[href: "https://mstdn.games/@VirtualRook/110782241709703769"]{mstdn.games}
 right:
 img: virtualrook1.jpg
+left:
+time: 2023-07-29
+author: @a[href: "https://peoplemaking.games/@hayny"]{Hayny}
+source: @a[href: "https://peoplemaking.games/@hayny/110798570091054252"]{peoplemaking.games}
+right:
+img: hayny1.png
 
