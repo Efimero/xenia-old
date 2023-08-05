@@ -572,6 +572,13 @@ right:
 img: voltbun2.png
 img: voltbun3.png
 left:
+time: 2023-05-12
+author: @a[href: "https://twitter.com/Steevn_man"]{Stevemc32}
+source: @a[href: "https://twitter.com/Steevn_man/status/1656965540110376960"]{Twitter}
+Inspired by the album cover of a collection of Spanish republican songs from the Spanish civil war
+right:
+img: stevemc32-1.png
+left:
 time: 2023-05-15
 author: @a[href: "https://yiff.life/@koko"]{Koko}
 source: @a[href: "https://yiff.life/@koko/110369383358466705"]{yiff.life}
