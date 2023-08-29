@@ -655,4 +655,11 @@ author: @a[href: "https://peoplemaking.games/@hayny"]{Hayny}
 source: @a[href: "https://peoplemaking.games/@hayny/110798570091054252"]{peoplemaking.games}
 right:
 img: hayny1.png
-
+left:
+time: 2023-08-29
+author: @a[href: "https://www.furaffinity.net/user/wolfspropcreations/"]{Wolf's Prop Creations}
+sub: @a[href: "https://timetheft.social/@mutanthunt"]{Mariken}
+source: @a[href: "https://www.furaffinity.net/view/53474137/"]{FurAffinity}
+An actual puppet of Xenia!
+right:
+img: wolfspropcreations1.jpg
