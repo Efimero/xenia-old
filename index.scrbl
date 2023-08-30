@@ -25,6 +25,7 @@
     @element/not-empty['flag class: "b"]{}
     @br
     @center{
+      @div[class: "webkit"]{@element['warn class: "r"]{⚠️}@element['warn class: "l"]{⚠️}Oops! It seems like your browser may not be up to date with Xenia's!@br She suggests you use @a[href: "https://www.mozilla.org/en-US/firefox/new/"]{Firefox} for better safety and comfort.}
       @iframe[width: 560 height: 315 src: "https://www.youtube-nocookie.com/embed/0b4eW1KAuWE" frameborder: 0 allow: "accelerometer; autoplay: clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen: "true"]
       @br
       Thanks to Immy for this awesome video.}
@@ -72,5 +73,12 @@
     }
     @div[class: "glitchButton" style: "position:fixed;top:20px;right:20px;"]
     @script[src: "https://button.glitch.me/button.js" defer: #t]
+    @script[defer: #t]{
+        const UA = navigator.userAgent;
+        const EW = /WebKit/.test(UA) || /Trident/.test(UA);
+        if (!EW) {
+            document.querySelector(@"'.webkit'").setAttribute(@"'disabled'", true)
+          }
+      }
   }
 }

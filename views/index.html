@@ -12,7 +12,8 @@
 <flag class="p"></flag>
 <flag class="b"></flag>
 <br />
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0b4eW1KAuWE" frameborder="0" allow="accelerometer; autoplay: clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen="true"></iframe>
+<center><div class="webkit"><warn class="r">⚠️</warn><warn class="l">⚠️</warn>Oops! It seems like your browser may not be up to date with Xenia's!<br /> She suggests you use <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a> for better safety and comfort.</div>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0b4eW1KAuWE" frameborder="0" allow="accelerometer; autoplay: clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen="true"></iframe>
 <br />
 Thanks to Immy for this awesome video.</center>
 <br />
@@ -138,4 +139,9 @@ Special thanks to <a href="https://archive.is/Ho4Md">this recap</a> on Mastodon 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://xenia-linux-site.glitch.me/">Xenia</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://web.archive.org/web/19970517213342/www.early.com/~emackey/linux/">Alan Mackey</a> is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
   Website made with <a href="https://glitch.com">Glitch</a>!</div></footer>
 <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
-<script src="https://button.glitch.me/button.js" defer></script></body></html>
+<script src="https://button.glitch.me/button.js" defer></script>
+<script defer>const UA = navigator.userAgent;
+const EW = /WebKit/.test(UA) || /Trident/.test(UA);
+if (!EW) {
+    document.querySelector('.webkit').setAttribute('disabled', true)
+  }</script></body></html>
