@@ -150,10 +150,6 @@ div.webkit[disabled] {
   display: none;
 }
 
-warn {
-  font-size: 2em;
-}
-
 warn.r {
   float: right;
 }
